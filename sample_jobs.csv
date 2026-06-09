@@ -1,0 +1,61 @@
+title,company,location,salary_min,salary_max,url,created
+Data Engineer,N26,Stuttgart,57824,66233,https://example.com/job/0,2026-06-03T10:00:00Z
+Data Analyst,SAP,Stuttgart,57679,76766,https://example.com/job/1,2026-06-07T10:00:00Z
+Data Analyst,Personio,Berlin,54488,64023,https://example.com/job/2,2026-06-01T10:00:00Z
+Data Analyst,HelloFresh,Cologne,53257,72988,https://example.com/job/3,2026-06-04T10:00:00Z
+Data Scientist,Delivery Hero,Frankfurt,69654,82211,https://example.com/job/4,2026-06-07T10:00:00Z
+ML Engineer,SAP,Hamburg,56552,67099,https://example.com/job/5,2026-06-02T10:00:00Z
+Data Analyst,Siemens,Frankfurt,61584,75465,https://example.com/job/6,2026-06-01T10:00:00Z
+Python Developer,SAP,Stuttgart,,,https://example.com/job/7,2026-06-09T10:00:00Z
+ML Engineer,Personio,Hamburg,62299,80432,https://example.com/job/8,2026-06-04T10:00:00Z
+ML Engineer,SAP,Stuttgart,57139,65889,https://example.com/job/9,2026-06-04T10:00:00Z
+ML Engineer,Delivery Hero,Berlin,60227,72781,https://example.com/job/10,2026-06-06T10:00:00Z
+AI Engineer,SAP,Hamburg,55432,74412,https://example.com/job/11,2026-06-03T10:00:00Z
+Python Developer,Siemens,Cologne,,,https://example.com/job/12,2026-06-09T10:00:00Z
+Data Scientist,N26,Munich,73216,86529,https://example.com/job/13,2026-06-01T10:00:00Z
+Data Analyst,Bosch,Hamburg,,,https://example.com/job/14,2026-06-04T10:00:00Z
+AI Engineer,Trivago,Stuttgart,64179,78661,https://example.com/job/15,2026-06-03T10:00:00Z
+Data Analyst,Siemens,Hamburg,54287,66327,https://example.com/job/16,2026-06-07T10:00:00Z
+Data Engineer,Celonis,Cologne,56543,70473,https://example.com/job/17,2026-06-08T10:00:00Z
+Data Engineer,HelloFresh,Berlin,,,https://example.com/job/18,2026-06-02T10:00:00Z
+Data Analyst,Siemens,Frankfurt,66252,84015,https://example.com/job/19,2026-06-09T10:00:00Z
+Data Analyst,Siemens,Berlin,,,https://example.com/job/20,2026-06-06T10:00:00Z
+Data Scientist,Siemens,Berlin,,,https://example.com/job/21,2026-06-09T10:00:00Z
+ML Engineer,Celonis,Munich,70317,80060,https://example.com/job/22,2026-06-04T10:00:00Z
+Data Analyst,Zalando,Munich,68126,78772,https://example.com/job/23,2026-06-06T10:00:00Z
+ML Engineer,N26,Frankfurt,60319,70151,https://example.com/job/24,2026-06-01T10:00:00Z
+Python Developer,SAP,Munich,,,https://example.com/job/25,2026-06-09T10:00:00Z
+Data Analyst,Delivery Hero,Munich,64103,82912,https://example.com/job/26,2026-06-05T10:00:00Z
+Data Analyst,N26,Cologne,59938,74870,https://example.com/job/27,2026-06-05T10:00:00Z
+Data Analyst,Trivago,Frankfurt,71004,89651,https://example.com/job/28,2026-06-02T10:00:00Z
+Data Analyst,Celonis,Munich,65681,74730,https://example.com/job/29,2026-06-04T10:00:00Z
+AI Engineer,Zalando,Cologne,,,https://example.com/job/30,2026-06-04T10:00:00Z
+Data Engineer,Siemens,Berlin,,,https://example.com/job/31,2026-06-08T10:00:00Z
+Data Analyst,Personio,Munich,70834,81001,https://example.com/job/32,2026-06-08T10:00:00Z
+Data Scientist,HelloFresh,Munich,,,https://example.com/job/33,2026-06-06T10:00:00Z
+Data Scientist,SAP,Frankfurt,66735,82386,https://example.com/job/34,2026-06-01T10:00:00Z
+Data Scientist,N26,Frankfurt,71931,85490,https://example.com/job/35,2026-06-04T10:00:00Z
+Data Engineer,Siemens,Munich,,,https://example.com/job/36,2026-06-08T10:00:00Z
+Data Analyst,SAP,Munich,63235,78495,https://example.com/job/37,2026-06-01T10:00:00Z
+Data Engineer,Delivery Hero,Stuttgart,64856,73097,https://example.com/job/38,2026-06-07T10:00:00Z
+Data Scientist,Delivery Hero,Frankfurt,67886,79388,https://example.com/job/39,2026-06-07T10:00:00Z
+Python Developer,Siemens,Berlin,60396,72741,https://example.com/job/40,2026-06-07T10:00:00Z
+Python Developer,Delivery Hero,Stuttgart,67968,85073,https://example.com/job/41,2026-06-04T10:00:00Z
+Data Analyst,Zalando,Hamburg,55566,64524,https://example.com/job/42,2026-06-06T10:00:00Z
+Data Analyst,Delivery Hero,Berlin,54821,72392,https://example.com/job/43,2026-06-01T10:00:00Z
+Data Scientist,N26,Cologne,,,https://example.com/job/44,2026-06-07T10:00:00Z
+Data Scientist,Personio,Berlin,63333,75366,https://example.com/job/45,2026-06-02T10:00:00Z
+ML Engineer,Siemens,Frankfurt,70770,88332,https://example.com/job/46,2026-06-04T10:00:00Z
+Python Developer,Delivery Hero,Stuttgart,67734,80881,https://example.com/job/47,2026-06-05T10:00:00Z
+Data Analyst,Personio,Frankfurt,,,https://example.com/job/48,2026-06-02T10:00:00Z
+Data Engineer,Bosch,Berlin,62808,74300,https://example.com/job/49,2026-06-02T10:00:00Z
+Data Analyst,Siemens,Munich,,,https://example.com/job/50,2026-06-09T10:00:00Z
+AI Engineer,SAP,Berlin,64942,82028,https://example.com/job/51,2026-06-03T10:00:00Z
+Data Engineer,Siemens,Hamburg,53891,63644,https://example.com/job/52,2026-06-05T10:00:00Z
+AI Engineer,Siemens,Cologne,53450,73207,https://example.com/job/53,2026-06-09T10:00:00Z
+Python Developer,Siemens,Frankfurt,,,https://example.com/job/54,2026-06-01T10:00:00Z
+ML Engineer,Delivery Hero,Berlin,59464,69607,https://example.com/job/55,2026-06-08T10:00:00Z
+Data Scientist,SAP,Cologne,61561,76568,https://example.com/job/56,2026-06-03T10:00:00Z
+Data Engineer,HelloFresh,Cologne,50590,64639,https://example.com/job/57,2026-06-03T10:00:00Z
+Data Scientist,Bosch,Berlin,59050,73024,https://example.com/job/58,2026-06-04T10:00:00Z
+Data Analyst,HelloFresh,Stuttgart,,,https://example.com/job/59,2026-06-03T10:00:00Z
