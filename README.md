@@ -1,5 +1,5 @@
 # Adzuna Job Fetcher
-
+https://roadmap.sh/projects/job-listings-scraper
 A clean Python tool that pulls real job listings from the **[Adzuna API](https://developer.adzuna.com/)**
 and saves them to a CSV file. Unlike scraping LinkedIn or Indeed, this uses an
 official, permitted API — no anti-bot issues and no Terms-of-Service problems.
